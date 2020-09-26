@@ -1,4 +1,4 @@
-<img src="https://raw.github.com/nanshens/nanshens/master/source/title.jpg" alt="nanshens" />   
+<img src="https://raw.github.com/nanshens/nanshens/master/source/github.gif" alt="nanshens" />   
 skills   
 java | spring | cloud | dubbo   
 sql: mysql | postgres | mongodb | redis   
