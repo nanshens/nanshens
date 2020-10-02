@@ -1,8 +1,8 @@
 <img src="https://raw.github.com/nanshens/nanshens/master/source/github.gif" alt="nanshens" /> 
 <html>
-    <table style="margin-left: auto; margin-right: auto;">
+    <table style="margin-left: auto; margin-right: auto; border:none;cell-padding:0; cell-spacing:0;border-collapse:collapse;>
         <tr>
-            <td>
+            <td style="width: 60%">
                 skills   
 java | spring | cloud | dubbo   
 sql: mysql | postgres | mongodb | redis   
@@ -12,7 +12,7 @@ docker | k8s | nginx | jenkins | git
 swift | flutter   
 rabbitmq | kafka   
             </td>
-            <td>
+            <td style="width: 40%">
                 <img src="https://github-readme-stats.vercel.app/api?username=nanshens&show_icons=true" alt="nanshens" /> 
             </td>
         </tr>
