@@ -1,12 +1,12 @@
 <img src="https://raw.github.com/nanshens/nanshens/master/source/github.gif" alt="nanshens" /> 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nanshens&show_icons=true" alt="nanshens" />
-**前端:**javascript | typescript | reactjs | vuejs | nodejs | electron <br/>
-**后端:**java | springboot | springcloud | dubbo | jpa | security <br/>
-**中间件:**rabbitmq | nginx | shardingsphere <br/>
-**数据库:**mysql | postgresql | mongodb | redis<br/>
-**运维:**linux | docker | jenkins | walle <br/>
-**工具:**idea | vscode | git <br/>
+<b>Front-End:</b>  javascript | typescript | reactjs | vuejs | nodejs | electron <br/>
+<b>Back-End:</b>  java | springboot | springcloud | dubbo | jpa | security <br/>
+<b>Middleware:</b>  rabbitmq | nginx | shardingsphere <br/>
+<b>SQL:</b>  mysql | postgresql | mongodb | redis<br/>
+<b>Devops:</b>  linux | docker | jenkins | walle <br/>
+<b>Tools:</b>  idea | vscode | git <br/>
 
      
 <!--   ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nanshens&repo=springbootdemo) -->
